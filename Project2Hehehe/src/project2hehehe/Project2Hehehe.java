@@ -16,6 +16,8 @@ public class Project2Hehehe {
      */
     public static void main(String[] args) {
         System.out.println("hello kiu kiu");
+        System.out.println("hello kiu kiu");
+        System.out.println("hello kiu kiu");
     }
     
 }
